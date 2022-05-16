@@ -11,9 +11,9 @@
 
 # Dependencies
 
-[qb-core](https://github.com/qbcore-framework/qb-core)
-[qb-menu](https://github.com/qbcore-framework/qb-menu)
-[qb-menu](https://github.com/qbcore-framework/qb-target)
+**[qb-core](https://github.com/qbcore-framework/qb-core)**
+**[qb-menu](https://github.com/qbcore-framework/qb-menu)**
+**[qb-menu](https://github.com/qbcore-framework/qb-target)**
 
 
 
