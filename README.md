@@ -16,7 +16,7 @@
 
 **[qb-menu](https://github.com/qbcore-framework/qb-menu)**
 
-**[qb-menu](https://github.com/qbcore-framework/qb-target)**
+**[qb-target](https://github.com/qbcore-framework/qb-target)**
 
 
 
